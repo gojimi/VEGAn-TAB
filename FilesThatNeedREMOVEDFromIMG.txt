@@ -1,0 +1,7 @@
+These Files were accidently left in from some of the TapNTap framework and app transfers
+and should be removed.  -GoJimi  12/04/10  16:49 EST
+
+
+/system/framework/com.tapntap.platform.jar
+/system/app/TapNTapServices.apk
+/system/app/VideoPlayer.apk

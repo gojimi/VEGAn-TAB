@@ -1,0 +1,14 @@
+ChangeLog -  Follow the format below
+
+
+* Started Log - GoJimi 12/03/10 16:40 EST
+
+* added folder to repo with missing files from Vega rom not in ours. Some are not needed of course.   - GoJimi 12/03/10 16:41 EST
+
+* /alpha2 boot.img has adb remount and added the shuttled svc (not working yet, however)
+
+* Added black theme to notification dropdown
+
+* Added boot logo to framework-res.apk
+
+* Added transparency patch to services.jar

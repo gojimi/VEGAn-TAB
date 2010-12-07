@@ -1,0 +1,10 @@
+BugList -  Follow the format below
+
+
+* Started Log - GoJimi 12/03/10 18:37 EST
+
+* Browser crashes on some websites no relevent data in logcat.   - GoJimi 12/03/10 18:37 EST
+** One example is sign in at ebay.com - I see cert related logcat items
+
+* External sdcard does not mount at boot (vold issue)  - GoJimi 12/03/10 18:39 EST
+
